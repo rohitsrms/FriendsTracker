@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "41967839802",
+    "firebase_url": "https://mytrackingfirebase.firebaseio.com",
+    "project_id": "mytrackingfirebase",
+    "storage_bucket": "mytrackingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41967839802:android:51b011c6d8e91f5b",
+        "android_client_info": {
+          "package_name": "com.example.rohit_pc.friendstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41967839802-1btumsijadmluk7lepumagl9qf65fks6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-DKcN3pFaEddKgL34nbs8Tlg0D6_Jew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
